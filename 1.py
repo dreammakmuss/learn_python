@@ -7,5 +7,6 @@ for count in range (1, month_days):
 print ('Сумма всех дней в месяце равна ', summa)
 
 
+#Добавил комментарий в файл, чтобы увидеть изменения на github.com
 
 
